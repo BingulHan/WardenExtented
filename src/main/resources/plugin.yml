@@ -1,0 +1,8 @@
+name: WardenExtented
+version: '${project.version}'
+main: online.bingulhan.wardenextented.WardenExtented
+api-version: 1.19
+authors: [ BingulHan ]
+commands:
+  givewei:
+    description: Warden çağırıcı eşya!
